@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock+SC&family=Roboto:wght@400;700&display=swap');
+
+a{
+	font-family: 'Roboto', sans-seri;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration:none ;
+	color: black	;
+}
